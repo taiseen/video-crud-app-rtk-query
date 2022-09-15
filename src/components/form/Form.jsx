@@ -1,4 +1,4 @@
-import { useAddVideoMutation, useEditVideoMutation } from "../../redux/features/apiSlice/apiSlice";
+import { useAddVideoMutation, useEditVideoMutation } from "../../redux/features/apiSlice";
 import { TextInput, TextArea, Success, Error } from '..';
 import { useEffect, useState } from "react";
 

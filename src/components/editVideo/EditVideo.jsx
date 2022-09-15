@@ -1,4 +1,4 @@
-import { useGetVideoByIdQuery } from "../../redux/features/apiSlice/apiSlice";
+import { useGetVideoByIdQuery } from "../../redux/features/apiSlice";
 import { useParams } from "react-router-dom";
 import { Error, Form } from "..";
 

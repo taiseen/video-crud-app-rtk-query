@@ -1,4 +1,4 @@
-import { useGetVideosQuery } from "../../redux/features/apiSlice/apiSlice";
+import { useGetVideosQuery } from "../../redux/features/apiSlice";
 import { VideoLoader, Error } from '..';
 import VideoCard from "./VideoCard";
 

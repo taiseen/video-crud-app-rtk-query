@@ -1,4 +1,4 @@
-import { useDeleteVideoMutation } from "../../redux/features/apiSlice/apiSlice";
+import { useDeleteVideoMutation } from "../../redux/features/apiSlice";
 import { Link, useNavigate } from "react-router-dom";
 import { useEffect } from "react";
 import { Error } from '..';

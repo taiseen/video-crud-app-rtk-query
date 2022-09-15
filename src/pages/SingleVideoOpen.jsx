@@ -1,5 +1,5 @@
 import { Description, DescriptionLoader, Error, Player, PlayerLoader, RelatedVideoLoader, RelatedVideos } from '../components';
-import { useGetVideoByIdQuery } from "../redux/features/apiSlice/apiSlice";
+import { useGetVideoByIdQuery } from "../redux/features/apiSlice";
 import { useParams } from "react-router-dom";
 
 

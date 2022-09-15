@@ -1,4 +1,4 @@
-import { useGetRelatedVideosQuery } from "../../../redux/features/apiSlice/apiSlice";
+import { useGetRelatedVideosQuery } from "../../../redux/features/apiSlice";
 import { RelatedVideo, RelatedVideoLoader, Error } from '../..';
 
 
